@@ -1,0 +1,37 @@
+{
+    "files.associations": {
+        "game_aux.h": "c",
+<<<<<<< HEAD
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "game_tools.h": "c"
+=======
+        "random": "c",
+        "queue": "c",
+        "stack": "c",
+        "stdbool.h": "c"
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "googletest.failed",
+                "settings": {
+                    "foreground": "#f00"
+                }
+            },
+            {
+                "scope": "googletest.passed",
+                "settings": {
+                    "foreground": "#0f0"
+                }
+            },
+            {
+                "scope": "googletest.run",
+                "settings": {
+                    "foreground": "#0f0"
+                }
+            }
+        ]
+>>>>>>> c2b72d426163d2220c276a1e97433d8e1910b67e
+    }
+}

@@ -1,0 +1,7 @@
+CMakeCache.txt
+CMakeFiles/
+game_text
+build/
+*.exe
+*.o
+watermark
