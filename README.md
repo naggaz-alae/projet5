@@ -1,6 +1,6 @@
 # Takuzu en C
 
-Ce projet est une version complète du jeu de logique **Takuzu** (qu'on appelle aussi Binairo), écrite en C pendant notre licence d'informatique à l'Université de Bordeaux, en 2022. On l'a construit à trois, étape par étape : d'abord le moteur du jeu, puis une version dans le terminal, un solveur automatique, une interface graphique en SDL2 et enfin une version jouable directement dans le navigateur grâce à WebAssembly.
+Ce projet est une version complète du jeu de logique **Takuzu** (qu'on appelle aussi Binairo), écrite en C pendant notre licence d'informatique à l'Université de Bordeaux, en 2023. On l'a construit à trois, étape par étape : d'abord le moteur du jeu, puis une version dans le terminal, un solveur automatique, une interface graphique en SDL2 et enfin une version jouable directement dans le navigateur grâce à WebAssembly.
 
 ## Le principe du jeu
 
@@ -146,4 +146,4 @@ Les fichiers d'en tête (`.h`) et `game_private.c` nous ont été fournis par l'
 
 ## L'équipe
 
-Projet réalisé par Aladdin, Yassine et Simo, dans le cadre du cours de projet technologique de l'Université de Bordeaux.
+Projet réalisé par moi, Yassine et Simo, dans le cadre du cours de projet technologique de l'Université de Bordeaux.
